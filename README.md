@@ -40,7 +40,7 @@ Hiện tại, tôi đang đảm nhận vai trò **Product Owner** cho dự án *
 
 ## 📫 Liên hệ
 **Hãy kết nối với tôi nếu bạn muốn có sự hợp tác cùng với tôi!**  
-📧 [Email] tuank@gmaill=.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+📧 [Email] tuank@gmail.com)  
+🔗 [LinkedIn](...)
 
 🌟 **Tôi luôn trong trạng thái thử thách những điều mới, những kiến thức mới**
