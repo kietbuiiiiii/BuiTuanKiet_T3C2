@@ -19,13 +19,14 @@ Tôi đã tham gia vào một số dự án thực tế, bao gồm:
 ## 🚀 Hiện tại
 Hiện tại, tôi đang đảm nhận vai trò **Product Owner** cho dự án Nha Khoa, nơi tôi quản lý quy trình phát triển và đảm bảo rằng sản phẩm đáp ứng nhu cầu của người dùng.
 
+Tôi và **Nhóm 6** đang thực hiện dự án **Web Nha Khoa** sử dụng **JavaScript** và **Visual Studio Code**. Chúng tôi hướng đến việc xây dựng một nền tảng thân thiện với người dùng để cung cấp các dịch vụ nha khoa trực tuyến.
+
 ## 🌟 Kỹ năng
 - Lập trình C#
 - Phát triển ứng dụng Android
 - Quản lý dự án
 - Sử dụng Firebase cho cơ sở dữ liệu
+- Lập trình JavaScript
 
 ## 📫 Liên hệ
 Nếu bạn muốn kết nối hoặc có bất kỳ câu hỏi nào, đừng ngần ngại liên hệ với tôi qua [email](mailto:your-email@example.com) hoặc [LinkedIn](https://www.linkedin.com/in/yourprofile).
-
-Cảm ơn bạn đã ghé thăm trang GitHub của tôi!
